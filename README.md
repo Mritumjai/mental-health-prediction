@@ -12,6 +12,8 @@ Logistic Regression ROC-AUC: 0.90
 Cross-Validation ROC-AUC: 0.88
 
 Balanced Precision & Recall (~0.86 F1-score)
+<img width="453" height="148" alt="image" src="https://github.com/user-attachments/assets/04150ab5-9a74-49eb-8d90-6842f471d082" />
+
 
 📊 Techniques Used
 
